@@ -1,11 +1,5 @@
 {
-  "name": "topology_problem",
+  "name": "blog",
   "private": true,
-  "dependencies": {},
-  "devDependencies": {
-    "mocha": "^5.0.5"
-  },
-  "scripts": {
-    "test": "mocha"
-  }
+  "dependencies": {}
 }
